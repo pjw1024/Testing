@@ -61,3 +61,17 @@ Here's a sentence with a footnote. [^1]
 
 
 
+term
+: definition
+
+### Strikethrough
+
+~~The world is flat.~~
+
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
