@@ -6,4 +6,4 @@ This repository is for git / github command testing and familiarization.
 
 **bold**
 *italic*
->Now is the time
+> Now is the time for all good men
