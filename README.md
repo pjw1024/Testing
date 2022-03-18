@@ -16,3 +16,11 @@ This repository is for git / github command testing and familiarization.
 - two
 - three
 
+'for i in list1:'
+
+---
+foo
+---
+
+[Markdown Guide](https://www.markdownguide.org)
+
