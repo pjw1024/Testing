@@ -81,6 +81,8 @@ That is so funny! :joy:
 
 (See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
 
+# The following do not work in github
+
 ### Highlight
 
 I need to highlight these ==very important words==.
