@@ -20,6 +20,7 @@ This repository is for git / github command testing and familiarization.
 
 ---
 foo
+
 ---
 
 [Markdown Guide](https://www.markdownguide.org)
